@@ -358,7 +358,7 @@ fun filter<T>(elements: Array<T>, predicate: (item:T) -> Boolean): Array<T> =
 
 Objects in DataWeave are similar to Arrays but each element consists of a key and a value. An Object can also be seen as a head (the first key-value pair) and a tail (a new Object with the rest of the key-value pairs).
 
-To match over an object, use the following syntax, where the script gets the first value of an object in the case "Word":
+To match over an object, use the following syntax, where the script gets the first value of an object, which in this case is "Word":
 
 .DataWeave Script
 [source,dataweave,linenums]
