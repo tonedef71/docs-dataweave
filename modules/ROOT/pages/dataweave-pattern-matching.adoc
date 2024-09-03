@@ -338,7 +338,7 @@ fun joinBy(elements: Array<String>, separator: String): String =
 
 ==== Example: Build a Filter Function
 
-This example builds a filter function that is higher-order function:
+This example builds a higher-order filter function:
 
 .DataWeave Script
 [source,dataweave,linenums]
