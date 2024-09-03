@@ -303,7 +303,7 @@ output application/json
 
 ==  Deconstructors on Collections in DataWeave
 
-DataWeave supports two types of collections: Arrays and Objects. Arrays are a sequence of values, while Objects are a sequence of key-value pair. 
+DataWeave supports two types of collections: Arrays and Objects. Arrays are a sequence of values, while Objects are a sequence of key-value pairs. 
 
 === Deconstruction on Arrays
 
